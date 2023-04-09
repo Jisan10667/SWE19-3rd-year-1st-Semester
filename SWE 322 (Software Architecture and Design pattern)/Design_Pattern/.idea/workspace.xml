@@ -4,7 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7c590dd5-fbb8-40cc-8e9c-aeb06e388fa1" name="Changes" comment="" />
+    <list default="true" id="fa0f0821-e886-4a7a-b88c-6e0a48c29c39" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design_Pattern.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/First Week/Cash.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/First Week/Check.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/First Week/Credit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/First Week/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/First Week/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/First Week/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/First Week/OrderDetail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/First Week/Payment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/First Week/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jisa.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,24 +38,28 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2NzXfUwLhXvak6NHuCoKYdZJS47" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="2OBT7HjIFVeYen2M42yRoZr9cj4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
   <component name="RunManager">
-    <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hello" />
+    <configuration name="jisa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jisa" />
       <module name="Design_Pattern" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -48,18 +67,18 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Hello" />
+        <item itemvalue="Application.jisa" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="7c590dd5-fbb8-40cc-8e9c-aeb06e388fa1" name="Changes" comment="" />
-      <created>1680667993586</created>
+      <changelist id="fa0f0821-e886-4a7a-b88c-6e0a48c29c39" name="Changes" comment="" />
+      <created>1681032809102</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1680667993586</updated>
+      <updated>1681032809102</updated>
     </task>
     <servers />
   </component>
@@ -73,5 +92,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
