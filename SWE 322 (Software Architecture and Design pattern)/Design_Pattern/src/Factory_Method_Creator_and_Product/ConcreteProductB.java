@@ -1,4 +1,4 @@
-package Factory_Method;
+package Factory_Method_Creator_and_Product;
 
 public class ConcreteProductB implements Product{
 
