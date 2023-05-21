@@ -7,18 +7,51 @@
     <list default="true" id="fa0f0821-e886-4a7a-b88c-6e0a48c29c39" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Design_Pattern.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/First Week/Cash.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/First Week/Check.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/First Week/Credit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/First Week/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/First Week/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/First Week/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/First Week/OrderDetail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/First Week/Payment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/First Week/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jisa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Adapter_Assignment/Adapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Adapter_Assignment/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Adapter_Assignment/IAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Adapter_Assignment/JSON.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Adapter_Assignment/Protobuf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Adapter_Assignment/XML.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Builder_Burger/Burger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Builder_Burger/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Creaional_Model/Burger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Creaional_Model/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Creaional_Model/IAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Creaional_Model/JSON.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Creaional_Model/JsonToXmlAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Creaional_Model/XML.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Factory_Method_Astronomy/Asteroids.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Factory_Method_Astronomy/BlackHoles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Factory_Method_Astronomy/DebrisField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Factory_Method_Astronomy/EnemyShips.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Factory_Method_Astronomy/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Factory_Method_Astronomy/Level1ObstacleFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Factory_Method_Astronomy/Level2ObstacleFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Factory_Method_Astronomy/Obstacle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Factory_Method_Astronomy/ObstacleFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Factory_Method_Astronomy/SolarFlares.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Factory_Method_Creator_and_Product/ConcreteCreatorA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Factory_Method_Creator_and_Product/ConcreteCreatorB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Factory_Method_Creator_and_Product/ConcreteProductA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Factory_Method_Creator_and_Product/ConcreteProductB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Factory_Method_Creator_and_Product/Creator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Factory_Method_Creator_and_Product/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Factory_Method_Creator_and_Product/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FirstWeek/Cash.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FirstWeek/Check.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FirstWeek/Credit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FirstWeek/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FirstWeek/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FirstWeek/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FirstWeek/OrderDetail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FirstWeek/Payment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Singleton/Database.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Singleton/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_1_UML_Ordering_System/Task1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,18 +79,55 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Volumes/Jisan Swe/prac/SWE19-3rd-year-1st-Semester/SWE 322 (Software Architecture and Design pattern)/Design_Pattern&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/Factory_Method" />
+      <recent name="$PROJECT_DIR$/src/Adapter" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Adapter" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Adapter_Assignment.Client">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Adapter_Assignment.Client" />
+      <module name="Design_Pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Adapter_Assignment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task_1_UML_Ordering_System.Task1" />
+      <module name="Design_Pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Task_1_UML_Ordering_System.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="jisa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="jisa" />
       <module name="Design_Pattern" />
@@ -67,6 +137,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Adapter_Assignment.Client" />
+        <item itemvalue="Application.Task1" />
         <item itemvalue="Application.jisa" />
       </list>
     </recent_temporary>
@@ -95,5 +167,16 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Creaional_Model/Burger.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
