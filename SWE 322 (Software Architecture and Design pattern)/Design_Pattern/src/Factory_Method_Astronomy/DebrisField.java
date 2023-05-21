@@ -9,31 +9,31 @@ public abstract class DebrisField implements Obstacle {
     }
 }
 
-class Small_Metal_DebrisFeild extends DebrisField{
+class Small_Metal_DebrisField extends DebrisField{
     
     @Override
     public void show(){
-        System.out.println("Small_Metal_DebrisFeild popped up");
+        System.out.println("Small_Metal_DebrisField popped up");
     }
 }
 
-class Large_Metal_DebrisFeild extends DebrisField{
+class Large_Metal_DebrisField extends DebrisField{
     
     @Override
     public void show(){
-        System.out.println("Large_Metal_DebrisFeild popped up");
+        System.out.println("Large_Metal_DebrisField popped up");
     }
 }
 
-class Small_Crystal_DebrisFeild extends DebrisField{
+class Small_Crystal_DebrisField extends DebrisField{
     
     @Override
     public void show(){
-        System.out.println("Small_Crystal_DebrisFeild popped up");
+        System.out.println("Small_Crystal_DebrisField popped up");
     }
 }
 
-class Large_Crystal_DebrisFeild extends DebrisField{
+class Large_Crystal_DebrisField extends DebrisField{
     
     @Override
     public void show(){

@@ -1,16 +1,7 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
+
 package Factory_Method_Astronomy;
 
-/**
- *
- * Obstacle createSolarFlare();
-    Obstacle createEnemyShip();
-    Obstacle createBlackHole();
- * @author ASUS
- */
+
 public abstract class Level1ObstacleFactory implements ObstacleFactory{
     
     @Override
@@ -29,10 +20,10 @@ public abstract class Level1ObstacleFactory implements ObstacleFactory{
     public Obstacle createDebrisField(int score) {
         int r = (int)(Math.random() * 2) + 1;
         if(r==1){
-           return new Small_Metal_DebrisFeild(); 
+           return new Small_Metal_DebrisField();
         }
         else {
-            return new Small_Crystal_DebrisFeild();
+            return new Small_Crystal_DebrisField();
         }
     }
     
@@ -54,6 +45,7 @@ public abstract class Level1ObstacleFactory implements ObstacleFactory{
     
     @Override
     public Obstacle createBlackHole(int score) {
+
         return new Small_BlackHoles();
     }
     

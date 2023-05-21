@@ -1,13 +1,6 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package Factory_Method_Astronomy;
 
-/**
- *
- * @author ASUS
- */
+
 public abstract class Level2ObstacleFactory implements ObstacleFactory{
     
     @Override
@@ -25,10 +18,10 @@ public abstract class Level2ObstacleFactory implements ObstacleFactory{
     public Obstacle createDebrisField(int score) {
         int r = (int)(Math.random() * 2) + 1;
         if(r==1){
-           return new Large_Metal_DebrisFeild(); 
+           return new Large_Metal_DebrisField();
         }
         else {
-            return new Large_Crystal_DebrisFeild();
+            return new Large_Crystal_DebrisField();
         }
     }
     

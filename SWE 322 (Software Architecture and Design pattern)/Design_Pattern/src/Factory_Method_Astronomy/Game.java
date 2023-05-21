@@ -3,7 +3,6 @@ package Factory_Method_Astronomy;
 
 
 public class Game {
-
     public static void main(String[] args) {
         int t = 10;
         int score = 0;
@@ -45,9 +44,6 @@ public class Game {
                 solarFlares.show();
                 
             }
-            
-            
-            
         }
     }
     
