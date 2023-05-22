@@ -20,10 +20,6 @@
       <change afterPath="$PROJECT_DIR$/src/Builder_Burger/Client.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Creaional_Model/Burger.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Creaional_Model/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Creaional_Model/IAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Creaional_Model/JSON.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Creaional_Model/JsonToXmlAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Creaional_Model/XML.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Factory_Method_Astronomy/Asteroids.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Factory_Method_Astronomy/BlackHoles.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Factory_Method_Astronomy/DebrisField.java" afterDir="false" />
