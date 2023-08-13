@@ -166,26 +166,26 @@ int main() {
 /*
 Input 1:
 20 23
-Arad 366
-Bucharest 0
-Craiova 160
-Drobeta 242
-Eforie 161
-Fagaras 178
-Giurgiu 77
-Hirsova 151
-Iasi 226
-Lugoj 244
-Mehadia 241
-Neamt 234
-Oradiea 380
-Pitesti 98
-Rimnicu-Vilcea 193
-Sibiu 253
-Timisoara 329
-Urziceni 80
-Vaslui 199
-Zering 374
+A 366
+B 0
+C 160
+D 242
+E 161
+F 178
+G 77
+H 151
+I 226
+L 244
+M 241
+N 234
+O 380
+P 98
+R 193
+S 253
+T 329
+U 80
+V 199
+Z 374
  
 Arad Zering 75
 Arad Sibiu 140
